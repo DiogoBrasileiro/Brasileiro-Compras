@@ -1,0 +1,6 @@
+{
+  "name": "Brasileiro Compras",
+  "description": "Sistema de gestão de compras e solicitações para Brasileiro Administração de Condomínios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
